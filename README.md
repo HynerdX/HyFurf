@@ -9,5 +9,9 @@ This resource pack is directly modified from FSR Overlay 1.8
 ## Misc
 If you care about some details, you may change the file name to §aHy§bpixel§0.zip, so that it can display better in Resource Pack Management.
 
+And you will get something like this:
+
+![image](title.png)
+
 ## Demo
 ![image](demo.png)
